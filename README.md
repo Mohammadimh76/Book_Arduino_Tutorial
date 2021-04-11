@@ -54,10 +54,9 @@
 #### 🔹 Topics in this chapter include
 | <b>Chapter 1</b>  |   |   | 
 |-----------|--------------------|-----------|
-|1-1 |1-4 |1-7 |
-|1-2 |1-5 |1-8 |
-|1-3 |1-6 | |
-
+|1-1 Arduino Tutorial |1-4 Arduino Kit |1-7 Arduino UNO |
+|1-2 Arduino Download |1-5 Arduino Shields |1-8 Arduino UNO Pinout |
+|1-3 Arduino IDE |1-6 Arduino Boards | |
 
 
 </article>
@@ -71,14 +70,13 @@
 #### 🔹 Topics in this chapter include
 | <b>Chapter 2</b>  |   |   |
 |-----------|-----------|-----------|
-|2-1 |2-8 |2-15 |
-|2-2 |2-9 |2-16 |
-|2-3 |2-10 |2-17 |
-|2-4 |2-11 |2-18 |
-|2-5 |2-12 |2-19 |
-|2-6 |2-13 |2-20 |
-|2-7 |2-14 |2-21 |
-
+|2-1 Arduino Coding Basics |2-8 Arduino Functions |2-15 Arduino If statement |
+|2-2 Syntax & Program Flow |2-9 Arduino Data Types |2-16 if-else & else-if |
+|2-3 Serial & Serial.begin() |2-10 Arduino Variables |2-17 Arduino for Loop |
+|2-4 Serial.print () |2-11 Arduino Constants |2-18 Arduino while loop |
+|2-5 Serial.available() |2-12 Arduino Operators |2-19 Arduino switch case |
+|2-6 Serial.read() & Serial.write() |2-13 Arduino Array |2-20 Arduino String |
+|2-7 Arduino analogRead () |2-14 Arduino Delay |2-21 Arduino String Object |
 
 
 </article>
@@ -92,9 +90,8 @@
 #### 🔹 Topics in this chapter include
 | <b>Chapter 3</b>  |   |   | 
 |-----------|--------------------|-----------|
-|3-1 |3-3 |3-5 |
-|3-2 |3-4 | |
-
+|3-1 Blinking an LED |3-3 Blinking various LEDs using Arrays |3-5 Blinking multiple LEDs using switch case |
+|3-2 Blinking Two LED |3-4 Blinking multiple LEDs using loop | |
 
 
 </article>
@@ -108,10 +105,10 @@
 #### 🔹 Topics in this chapter include
 | <b>Chapter 4</b>  |   |    | 
 |-----------|--------------------|--------------------|
-|4-1 |4-5 |4-9 |
-|4-2 |4-6 |4-10 |
-|4-3 |4-7 | |
-|4-4 |4-8 | |
+|4-1 Arduino Simulator |4-5 Arduino PWM |4-9 Arduino Interrupt |
+|4-2 Arduino Web Editor |4-6 Arduino Library |4-10 Arduino SPI |
+|4-3 Arduino Switch |4-7 Arduino LCD Display | |
+|4-4 Arduino button |4-8 Arduino Potentiometer | |
 
 
 </article>
@@ -125,10 +122,9 @@
 #### 🔹 Topics in this chapter include
 | <b>Chapter 5</b>  |   |   |
 |-----------|-----------|-----------|
-|5-1 |5-4 |5-7 |
-|5-2 |5-5 | |
-|5-3 |5-6 | |
-
+|5-1 What are Arduino sensors |5-4 Ultrasonic distance sensor |5-7 Arduino Motion Sensor |
+|5-2 Arduino LDR |5-5 Ultrasonic Range finder | |
+|5-3 Arduino Accelerometer |5-6 Temperature Sensor | |
 
 
 </article>
@@ -142,8 +138,8 @@
 #### 🔹 Topics in this chapter include
 | <b>Chapter 6</b>  |   |
 |-----------|--------------------|
-|6-1 |6-3 |
-|6-2 |6-4 |
+|6-1 Arduino Stepper motor |6-3 Arduino Servomotor using Potentiometer |
+|6-2 Arduino Servo Motor |6-4 Arduino DC motor|
 
 
 </article>
@@ -157,8 +153,8 @@
 #### 🔹 Topics in this chapter include
 | <b>Chapter 7</b>  |   |   | 
 |-----------|--------------------|-----------|
-|7-1 |7-3 |7-5 |
-|7-2 |7-4 |7-6 |
+|7-1 Arduino Nano |7-3 Arduino Mega |7-5 Arduino Due |
+|7-2 Arduino Pro Mini |7-4 Arduino Micro |7-6 Arduino vs Raspberry Pi |
 
 
 </article>
@@ -173,8 +169,8 @@ etc<br>
 #### 🔹 Topics in this chapter include
 | <b>Chapter 8</b>  |   |    
 |-----------|--------------------|
-|8-1 |8-3 |
-|8-2 |8-4 |
+|8-1 Arduino Nano Pinout |8-3 Arduino Micro Pinout |
+|8-2 Arduino Mega Pinout |8-4 Arduino Due Pinout |
 
 
 </article>
